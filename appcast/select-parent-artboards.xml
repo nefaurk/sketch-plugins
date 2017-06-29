@@ -5,5 +5,17 @@
     <link>http://nefaurk.github.io/sketch-plugins/appcast/select-parent-artboards.xml</link>
     <description>Select Parent Artboards</description>
     <language>en</language>
+      <item>
+        <title>v1.1</title>
+        <description>
+          <![CDATA[
+            <em>v1.1</em>
+            <ul>
+              <li>Sketch 45 compatibility</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/nefaurk/select-parent-artboards/archive/v1.1.zip" sparkle:version="1.1"/>
+      </item>
   </channel>
 </rss>
