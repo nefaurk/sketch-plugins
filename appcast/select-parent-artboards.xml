@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Hello World Sketch Test Plugin</title>
+    <title>Select Parent Artboards</title>
     <link>http://nefaurk.github.io/sketch-plugins/appcast/select-parent-artboards.xml</link>
-    <description>Select Parent Artboards</description>
+    <description>Selects the parent artboards of the current selection</description>
     <language>en</language>
+    <item>
+      <title>v1.2</title>
+      <description>
+        <![CDATA[
+          <em>v1.2</em>
+          <ul>
+            <li>Fixing an issue where selecting a symbol wouldn't work</li>
+          </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/nefaurk/select-parent-artboards/archive/v1.2.zip" sparkle:version="1.2"/>
+    </item>
       <item>
         <title>v1.1</title>
         <description>
