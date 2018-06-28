@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Style Manager</title>
+		<link>http://nefaurk.github.io/sketch-plugins/appcast/style-manager.xml</link>
+		<description>A collection of tools that help with style management</description>
+		<language>en</language>
+		<item>
+			<title>v0.1</title>
+			<description><![CDATA[
+			<em>v0.1</em>
+			<ul>
+				<li>First beta release</li>
+			</ul>
+			]]></description>
+			<enclosure url="https://github.com/nefaurk/style-manager/archive/v0.1.zip" sparkle:version="0.1"/>
+		</item>
+	</channel>
+</rss>
